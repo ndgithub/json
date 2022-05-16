@@ -1,0 +1,1085 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.7697865978925, 35.00362916735512]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "エディオン京都四条河原町店",
+                "zip": "600-0000",
+                "address": "京都府京都市下京区真町68番地",
+                "place": "",
+                "phone": "075-213-6021",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132.45658596904346, 34.39540484659495]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "エディオン広島本店",
+                "zip": "730-8620",
+                "address": "広島県広島市中区紙屋町2-1-18",
+                "place": "",
+                "phone": "082-247-5111",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.5016232248742, 34.66552308878953]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "エディオンなんば本店",
+                "zip": "542-0076",
+                "address": "大阪府大阪市難波三丁目2番18号",
+                "place": "",
+                "phone": "06-6630-6733",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137.1412150978944, 35.08253625369983]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "エディオン豊田本店",
+                "zip": "471-0037",
+                "address": "愛知県豊田市三軒町8丁目55番地",
+                "place": "",
+                "phone": "0565-37-9111",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133.76856944021256, 34.57917418435816]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "エディオン倉敷本店",
+                "zip": "710-0834",
+                "address": "岡山県倉敷市笹沖1209-1",
+                "place": "",
+                "phone": "086-422-2011",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132.7499044978788, 34.40900571493481]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "エディオン東広島本店",
+                "zip": "739-0024",
+                "address": "広島県東広島市西条町御薗宇4598-1",
+                "place": "",
+                "phone": "082-423-3211",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.42135442487742, 34.79829006519733]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "エディオン伊丹店",
+                "zip": "664-0831",
+                "address": "兵庫県伊丹市北伊丹5丁目70-1",
+                "place": "",
+                "phone": "072-772-0337",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137.0682945843967, 34.963257800454286]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "エディオン安城店",
+                "zip": "446-0057",
+                "address": "愛知県安城市三河安城東町1丁目17番地1",
+                "place": "",
+                "phone": "0566-76-1521",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133.37521068254043, 34.4885384001298]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "エディオン福山本店",
+                "zip": "720-0801",
+                "address": "広島県福山市入船町一丁目8番15号",
+                "place": "",
+                "phone": "084-923-1566",
+                "storeid": "09"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.71291752674472, 35.73191932026811]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ池袋本店",
+                "zip": "170-8419",
+                "address": "東京都豊島区東池袋1-41-5",
+                "place": "8Fコンタクトコーナー",
+                "phone": "03-5396-1111",
+                "storeid": "10"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.7019724555781, 35.66016773869486]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ渋谷東口店",
+                "zip": "150-0002",
+                "address": "東京都渋谷区渋谷1-24-12",
+                "place": "本館3Fコンタクトコーナー",
+                "phone": "03-5466-1111",
+                "storeid": "11"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.41487495557908, 35.69949016128487]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ立川店",
+                "zip": "190-0012",
+                "address": "東京都立川市曙町2-12-2",
+                "place": "B1Fコンタクトコーナー",
+                "phone": "042-548-1111",
+                "storeid": "12"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.50260415555476, 34.66688436096446]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラなんば店",
+                "zip": "542-0074",
+                "address": "大阪府大阪市中央区千日前2-10-1",
+                "place": "3Fコンタクトコーナー",
+                "phone": "06-6634-1111",
+                "storeid": "13"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.76285448256797, 35.6756125264678]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ有楽町店",
+                "zip": "100-0006",
+                "address": "東京都千代田区有楽町1-11-1",
+                "place": "6Fコンタクトコーナー",
+                "phone": "03-5221-1111",
+                "storeid": "14"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.35297715761436, 43.06764690360465]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ札幌店",
+                "zip": "064-0825",
+                "address": "北海道札幌市中央区北五条西２－１",
+                "place": "2Fコンタクトコーナー",
+                "phone": "011-261-1111",
+                "storeid": "15"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.6986502555789, 35.69273949103867]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ新宿西口店",
+                "zip": "160-0023",
+                "address": "東京都新宿区西新宿1-5-1",
+                "place": "5Fコンタクトコーナー",
+                "phone": "03-5326-1111",
+                "storeid": "16"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.70891128256935, 35.73101517612427]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ池袋西口店",
+                "zip": "171-0021",
+                "address": "東京都豊島区西池袋1-16-3",
+                "place": "4Fコンタクトコーナー",
+                "phone": "03-5960-1111",
+                "storeid": "17"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.40096333834452, 33.58707017195619]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ天神店（1号館）",
+                "zip": "810-0021",
+                "address": "福岡県福岡市中央区今泉1-25-1",
+                "place": "Cブロック　コンタクトコーナー",
+                "phone": "092-732-1112",
+                "storeid": "18"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.87960331323677, 35.17053867585473]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ名古屋駅西店",
+                "zip": "453-0015",
+                "address": "愛知県名古屋市中村区椿町6-9",
+                "place": "2Fコンタクトコーナー",
+                "phone": "052-459-1111",
+                "storeid": "19"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.62092905373848, 35.90457568636078]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ大宮西口そごう店",
+                "zip": "330-0854",
+                "address": "埼玉県さいたま市大宮区桜木町1-8-4",
+                "place": "3Fコンタクトコーナー",
+                "phone": "048-647-1111",
+                "storeid": "20"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.97210358257232, 35.86251197870595]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ柏店",
+                "zip": "277-0005",
+                "address": "千葉県柏市柏1-1-20",
+                "place": "4Fコンタクトコーナー",
+                "phone": "04-7165-1111",
+                "storeid": "21"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.4886172979003, 35.34009988097716]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ藤沢店",
+                "zip": "251-0052",
+                "address": "神奈川県藤沢市藤沢559",
+                "place": "5Fコンタクトコーナー",
+                "phone": "0466-29-1111",
+                "storeid": "22"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.69592608441025, 35.53332598359816]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメララゾーナ川崎店",
+                "zip": "212-0013",
+                "address": "神奈川県川崎市幸区堀川町72-1",
+                "place": "1Fコンタクトコーナー",
+                "phone": "044-520-1111",
+                "storeid": "23"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133.91976075370945, 34.666143262858874]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ岡山店",
+                "zip": "700-0023",
+                "address": "岡山県岡山市北区駅前町1-1-1",
+                "place": "2Fコンタクトコーナー",
+                "phone": "086-236-1111",
+                "storeid": "24"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.6173327285849, 35.50785012303327]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ新横浜店",
+                "zip": "222-0033",
+                "address": "神奈川県横浜市港北区新横浜2-100-45 キュービックプラザ新横浜",
+                "place": "8Fコンタクトコーナー",
+                "phone": "045-478-1111",
+                "storeid": "25"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.6173327285849, 35.50785012303327]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラJR八王子駅店",
+                "zip": "192-0083",
+                "address": "東京都八王子市旭町1-17",
+                "place": "3Fコンタクトコーナー",
+                "phone": "042-646-1111",
+                "storeid": "26"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.70292059606322, 35.691563066687905]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックロ",
+                "zip": "160-0022",
+                "address": "東京都新宿区新宿3-29-1",
+                "place": "6Fコンタクトコーナー",
+                "phone": "03-3226-1111",
+                "storeid": "27"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.73669329606287, 35.67724714518253]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ赤坂見附駅店",
+                "zip": "107-0052",
+                "address": "東京都港区赤坂3-1-6",
+                "place": "7Fコンタクトコーナー",
+                "phone": "03-6230-1111",
+                "storeid": "28"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [132.47494491137303, 34.395964357119546]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ広島駅前店",
+                "zip": "732-0822",
+                "address": "広島県広島市南区松原町5番1号",
+                "place": "B2Fコンタクトコーナー",
+                "phone": "082-506-1111",
+                "storeid": "29"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.88261799789635, 35.17241736034149]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ名古屋JRゲートタワー店",
+                "zip": "450-0002",
+                "address": "愛知県名古屋市中村区名駅1-1-3",
+                "place": "10Fコンタクトコーナー",
+                "phone": "052-569-1111",
+                "storeid": "30"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.54321252674282, 35.65227942089583]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ京王調布店",
+                "zip": "182-0026",
+                "address": "東京都調布市小島町2-48-6",
+                "place": "3F眼鏡補聴器コーナー",
+                "phone": "042-444-1111",
+                "storeid": "31"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.4458323690701, 35.544604973593145]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ビックカメラ町田店",
+                "zip": "194-8550",
+                "address": "東京都町田市原町田6丁目12番20号",
+                "place": "7Fコンタクトコーナー",
+                "phone": "042-726-1111",
+                "storeid": "32"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.77471518441413, 35.69913672366055]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ヨドバシカメラ秋葉原店",
+                "zip": "101-0028",
+                "address": "東京都千代田区神田花岡町1-1　4F",
+                "place": "4Fオーディオ/集音器コーナー",
+                "phone": "03-5209-1010",
+                "storeid": "33"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.34746788091311, 43.06851323845971]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ヨドバシカメラ札幌店",
+                "zip": "060-0806",
+                "address": "北海道札幌市北区北6条西5丁目1-22 2F",
+                "place": "3F補聴器/集音器コーナー",
+                "phone": "011-707-1010",
+                "storeid": "34"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.7589966267271, 34.98855404548195]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ヨドバシカメラ京都店",
+                "zip": "600-8216",
+                "address": "京都府京都市下京区東塩小路町590-2 2F",
+                "place": "1Fオーディオ/集音器コーナー",
+                "phone": "075-351-1010",
+                "storeid": "35"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.42177944018997, 33.58832545565384]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ヨドバシカメラ博多店",
+                "zip": "812-0012",
+                "address": "福岡県福岡市博多区博多駅中央街6-12",
+                "place": "1F補聴器/集音器コーナー",
+                "phone": "092-471-1010",
+                "storeid": "36"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.62035954023327, 35.4678900925655]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ヨドバシカメラ横浜店",
+                "zip": "220-0004",
+                "address": "神奈川県横浜市西区北幸1丁目2-7 4F",
+                "place": "4Fオーディオ/集音器コーナー",
+                "phone": "045-313-1010",
+                "storeid": "37"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.4959471113803, 34.704114644362704]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ヨドバシカメラ梅田店",
+                "zip": "530-0011",
+                "address": "大阪府大阪市北区大深町1-1 3F",
+                "place": "3Fオーディオ/集音器コーナー",
+                "phone": "06-4802-1010",
+                "storeid": "38"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.6976185979087, 35.68969947096363]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ヨドバシカメラ新宿西口店",
+                "zip": "160-0023",
+                "address": "東京都新宿区西新宿1-11-1",
+                "place": "マルチメディア館北館7階集音器コーナー",
+                "phone": "03-3356-1010",
+                "storeid": "39"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.97128936913813, 38.32696451176312]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ利府店",
+                "zip": "981-0112",
+                "address": "宮城県宮城郡利府町利府字新屋田前22 ｲｵﾝﾓｰﾙ利府2F",
+                "place": "",
+                "phone": "022-349-1760",
+                "storeid": "40"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.07315906907445, 35.72808562150334]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ八千代緑が丘店",
+                "zip": "276-0049",
+                "address": "千葉県八千代市緑が丘2-1-3 ｲｵﾝﾓｰﾙ八千代緑が丘3F",
+                "place": "",
+                "phone": "047-458-5426",
+                "storeid": "41"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137.76280357469173, 34.74024007399869]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ浜松市野店",
+                "zip": "435-0052",
+                "address": "静岡県浜松市東区天王町字諏訪1981-3 ｲｵﾝﾓｰﾙ浜松市野2F",
+                "place": "",
+                "phone": "053-468-1838",
+                "storeid": "42"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.35941929792517, 36.374764578158135]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ水戸内原店",
+                "zip": "319-0317",
+                "address": "茨城県水戸市内原2-1 ｲｵﾝﾓｰﾙ水戸内原3F",
+                "place": "",
+                "phone": "029-259-1312",
+                "storeid": "43"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [141.2661263268112, 38.44803283806166]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ石巻店",
+                "zip": "986-0866",
+                "address": "宮城県石巻市茜平4-104 ｲｵﾝﾓｰﾙ石巻1F",
+                "place": "",
+                "phone": "0225-92-1325",
+                "storeid": "44"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.08148444029175, 37.87628929094264]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ新潟南店",
+                "zip": "950-0150",
+                "address": "新潟県新潟市江南区下早通柳田1-1-1 ｲｵﾝﾓｰﾙ新潟南2F",
+                "place": "",
+                "phone": "025-383-5689",
+                "storeid": "45"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [140.03165479975328, 35.654082723634154]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ幕張新都心店",
+                "zip": "261-8535",
+                "address": "千葉県千葉市美浜区豊砂1-1 ｲｵﾝﾓｰﾙ幕張新都心 ｸﾞﾗﾝﾄﾞﾓｰﾙ2F",
+                "place": "",
+                "phone": "043-301-3678",
+                "storeid": "46"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.91744922672748, 34.99800006608265]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ草津店",
+                "zip": "525-0067",
+                "address": "滋賀県草津市新浜町300 ｲｵﾝﾓｰﾙ草津3F",
+                "place": "",
+                "phone": "077-599-5330",
+                "storeid": "47"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [136.8844798978977, 35.22749868950614]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼mozo ﾜﾝﾀﾞｰｼﾃｨ店",
+                "zip": "452-0817",
+                "address": "愛知県名古屋市西区二方町40-452 mozo ﾜﾝﾀﾞｰｼﾃｨ4F",
+                "place": "",
+                "phone": "052-503-8125",
+                "storeid": "48"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.3705268825398, 34.46730686990056]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼岸和田カンカン店",
+                "zip": "596-0014",
+                "address": "大阪府大阪府岸和田市港緑町3-1 岸和田カンカンベイサイドモール East 2F",
+                "place": "",
+                "phone": "072-438-3807",
+                "storeid": "49"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.76329318438636, 34.50793700212616]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ橿原店",
+                "zip": "634-0837",
+                "address": "奈良県橿原市曲川町7-20-1-305 ｲｵﾝﾓｰﾙ橿原3F",
+                "place": "",
+                "phone": "0744-21-8216",
+                "storeid": "50"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.58022865555685, 34.749789879516456]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ大日店",
+                "zip": "570-0016",
+                "address": "大阪府守口市大日東町1-18 ｲｵﾝﾓｰﾙ大日2F",
+                "place": "",
+                "phone": "06-4252-3571",
+                "storeid": "51"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.8021957555544, 34.65128754568363]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ大和郡山店",
+                "zip": "639-1101",
+                "address": "奈良県大和郡山市下三橋町741 ｲｵﾝﾓｰﾙ大和郡山2F",
+                "place": "",
+                "phone": "0743-52-7532",
+                "storeid": "52"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.70698942488116, 34.96368721441271]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ京都桂川店",
+                "zip": "601-8601",
+                "address": "京都府京都市南区久世高田町376－1 ｲｵﾝﾓｰﾙ京都桂川3F",
+                "place": "",
+                "phone": "075-754-6278",
+                "storeid": "53"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.56632096905057, 34.704713364208104]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ鶴見緑地店",
+                "zip": "538-0053",
+                "address": "大阪府大阪市鶴見区鶴見4丁目17-1-337 イオンモール鶴見緑地3F",
+                "place": "",
+                "phone": "06-6915-1546",
+                "storeid": "54"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.543071497883, 34.592720661601895]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼セブンパーク天美店",
+                "zip": "580-0032",
+                "address": "大阪府松原市天美東3丁目500番地 セブンパーク天美1F",
+                "place": "",
+                "phone": "072-349-7781",
+                "storeid": "55"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133.5422930960144, 33.5762857330636]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ高知店",
+                "zip": "780-0026",
+                "address": "高知県高知市秦南町1-4-8 ｲｵﾝﾓｰﾙ高知2F",
+                "place": "",
+                "phone": "088-826-8130",
+                "storeid": "56"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.53009994021565, 34.71591453042368]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ベルファ都島店",
+                "zip": "534-0016",
+                "address": "大阪府大阪市都島区友渕町2丁目13-34 ベルファ都島店2F",
+                "place": "",
+                "phone": "06-6929-3841",
+                "storeid": "57"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [133.26786765553862, 33.956742659298186]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ新居浜店",
+                "zip": "792-0007",
+                "address": "愛媛県新居浜市前田町8-8 ｲｵﾝﾓｰﾙ新居浜2F",
+                "place": "",
+                "phone": "0897-31-0585",
+                "storeid": "58"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.42361376905242, 34.78221276569777]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ伊丹店",
+                "zip": "664-0847",
+                "address": "兵庫県伊丹市藤ノ木1-1-1-319 ｲｵﾝﾓｰﾙ伊丹3F",
+                "place": "",
+                "phone": "072-771-3005",
+                "storeid": "59"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.48934785371307, 34.83325105408714]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼みのおｷｭｰｽﾞﾓｰﾙ店",
+                "zip": "562-0034",
+                "address": "大阪府箕面市西宿1-15-30 みのおｷｭｰｽﾞﾓｰﾙ CENTER2F",
+                "place": "",
+                "phone": "072-730-0393",
+                "storeid": "60"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.38150622672245, 34.78482739385437]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ伊丹昆陽店",
+                "zip": "664-0027",
+                "address": "兵庫県伊丹市池尻4-1-1 ｲｵﾝﾓｰﾙ伊丹昆陽2F",
+                "place": "",
+                "phone": "072-771-1258",
+                "storeid": "61"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.5335895708984, 34.8054321873148]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ららぽーとEXPOCITY店",
+                "zip": "565-0826",
+                "address": "大阪府吹田市千里万博公園2-1 ららぽーとEXPOCITY 1F 10660",
+                "place": "",
+                "phone": "06-4860-6231",
+                "storeid": "62"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [130.48111449733884, 33.595480753784756]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ福岡店",
+                "zip": "811-2303",
+                "address": "福岡県糟屋郡粕屋町酒殿 字老ノ木192-1 イオンモール福岡2F",
+                "place": "",
+                "phone": "092-939-7312",
+                "storeid": "63"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.96280719790127, 35.37613121951337]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼アピタ木更津店",
+                "zip": "292-0038",
+                "address": "千葉県木更津市ほたる野4丁目2-48 アピタ木更津店2F",
+                "place": "",
+                "phone": "0438-30-9461",
+                "storeid": "64"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [137.15971587090456, 35.078568222912146]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝｽﾀｲﾙ豊田店",
+                "zip": "471-0864",
+                "address": "愛知県豊田市広路町1丁目1 イオンスタイル豊田店2F",
+                "place": "",
+                "phone": "0565-85-0021",
+                "storeid": "65"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [138.61233716721728, 35.22166399156007]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼ｲｵﾝﾓｰﾙ富士宮店",
+                "zip": "418-0032",
+                "address": "静岡県富士宮市浅間町1-8 ｲｵﾝﾓｰﾙ富士宮2F",
+                "place": "",
+                "phone": "0544-68-7224",
+                "storeid": "66"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.34486332674163, 35.59621528520359]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼イオン橋本店",
+                "zip": "252-0143",
+                "address": "神奈川県相模原市緑区橋本6丁目2-1 イオン橋本店5F",
+                "place": "",
+                "phone": "042-700-1851",
+                "storeid": "67"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.34972638256608, 35.59131691617871]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼アリオ橋本店",
+                "zip": "252-0146",
+                "address": "神奈川県相模原市緑区大山町1-22 アリオ橋本2F",
+                "place": "",
+                "phone": "042-774-1851",
+                "storeid": "68"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.62879064024017, 35.759083380301014]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼イオン練馬店",
+                "zip": "179-0072",
+                "address": "東京都練馬区光が丘5丁目1-1 イオン練馬店3F",
+                "place": "",
+                "phone": "03-3975-0117",
+                "storeid": "69"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.55861011324282, 35.430432374394606]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼SYZイオン東戸塚店",
+                "zip": "244-8528",
+                "address": "神奈川県横浜市戸塚区品濃町537-1 ｲｵﾝ東戸塚店2F",
+                "place": "",
+                "phone": "045-828-1215",
+                "storeid": "70"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [139.73312072674136, 35.586729532381185]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼イトーヨーカドー大森店",
+                "zip": "143-0016",
+                "address": "東京都大田区大森北2丁目13-1 イトーヨーカドー 大森店3F",
+                "place": "",
+                "phone": "03-6404-9581",
+                "storeid": "71"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [135.18663521323043, 34.9085227429492]
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "愛眼イオン三田ウッディタウン店",
+                "zip": "669-1321",
+                "address": "兵庫県三田市けやき台1丁目6-2 イオン三田ウッディタウン 2F",
+                "place": "",
+                "phone": "079-564-0511",
+                "storeid": "72"
+            }
+        }
+    ]
+}
